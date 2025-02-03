@@ -19,7 +19,7 @@ This will install all required dependencies, including:
 ## 🚀 Usage
 
 ### Authentication
-The `Cegid\Auth` class handles authentication and retrieves an access token from the API.
+The `Auth\Token` class handles authentication and retrieves an access token from the API.
 
 ```php
 $httpClient = HttpClient::create();
